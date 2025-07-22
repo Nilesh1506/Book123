@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("today is raining to Heavy here");
 
 		System.out.println("Hello Nilesh Yadav what are doing");
+		System.out.println("Hello JAVA");
 
 	}
 
